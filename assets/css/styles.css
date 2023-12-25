@@ -228,6 +228,7 @@ a {
   margin-left: 28px;
   border: none;
   background: #fffcf4;
+  cursor: pointer;
 }
 
 .hero .cta-group .icon {
@@ -239,7 +240,6 @@ a {
   border-radius: 50%;
   background: #fff;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.07);
-  cursor: pointer;
 }
 
 .hero .Watch-video span {
